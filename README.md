@@ -1,5 +1,5 @@
 # PrimusRexus 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Pr-Rexus&style=for-the-badge&logo=github&logoColor=white&color=5AC69F&labelColor=white)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Pr-Rexus.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
 ### Hi there, I'm Prahlad 🏂
 
 ## Contacts
