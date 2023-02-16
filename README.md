@@ -23,6 +23,7 @@
 	
    <img alt="Ubuntu" width = "60px" height= "60px" src="https://logos-download.com/wp-content/uploads/2016/02/Ubuntu.png">
   <img alt="Kali" width="60px" height="60px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fih1.redbubble.net%2Fimage.1061444637.7604%2Fbg%2Cf8f8f8-flat%2C750x%2C075%2Cf-pad%2C750x1000%2Cf8f8f8.jpg&f=1&nofb=1&ipt=ba228ef63b2acea0eeb9564d7b49e34eca893e262e06d0a90426012557a5f32e&ipo=images" />
+<img alt="Gentoo" width="60px" height="60px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwiki.gentoo.org%2Fimages%2Fthumb%2Fe%2Fe3%2FGentooFreeBSD-logo-20060515.svg%2F313px-GentooFreeBSD-logo-20060515.svg.png&f=1&nofb=1&ipt=e57f05749450bd85115682803d0a30e7e491d2a7cb8d5eca8a0fc62d890c76a0&ipo=images" />
 
   
   <img alt="C#" width="60px" height="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
