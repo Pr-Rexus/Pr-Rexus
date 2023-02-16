@@ -28,6 +28,7 @@
   <img alt="C#" width="60px" height="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
   <img alt="Java" width="60px" height="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
   <img alt="JavaScript" width="60x" height="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+<img alt="TypeScript" width="60x" height="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
   <img alt="Lua" width="60px" height="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" />
   <img alt="Photoshop" width="60px" height="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" />
   <img alt="Python" width="60px" height="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
