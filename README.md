@@ -1,6 +1,7 @@
 # PrimusRexus 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Pr-Rexus.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
-### Hi there, I'm Prahlad 🏂
+
+<h1 style="font-size:4em; "> Hi there, I'm Prahlad 🏂 </h1 > ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Pr-Rexus.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
+
 
 ## Contacts
 <p>
