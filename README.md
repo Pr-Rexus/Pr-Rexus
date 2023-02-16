@@ -6,7 +6,7 @@
 
 ## Contacts
 <p>
-  <a href = "[Link](https://www.linkedin.com/in/prahlad-rimal-745622266/)">
+  <a href = "https://www.linkedin.com/in/prahlad-rimal-745622266/">
 	 <img src= "https://img.shields.io/badge/Linkedin-%40Prahlad%237012-red?logo=linkedin"/>
 	  
 <a href="mailto:prahladrimal@duck.com">
