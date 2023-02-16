@@ -1,4 +1,4 @@
-# PrimusRexus
+# PrimusRexus ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Pr-Rexus&style=for-the-badge&logo=github&logoColor=white&color=5AC69F&labelColor=white)
 ### Hi there, I'm Prahlad 🏂
 
 ## Contacts
