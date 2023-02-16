@@ -9,7 +9,7 @@
 <a href="mailto:prahladrimal@duck.com">
 		<img src="https://img.shields.io/badge/Email-Prahladrimal@duck.com-brightgreen?logo=mail.ru" />
   <a href="discord.gg">
-	<img src="https://img.shields.io/badge/Discord-%40Rex%237012-brightblue?logo=discord" />
+	<img src="https://img.shields.io/badge/Discord-%40Rex%237012-blue?logo=discord" />
 		</a>
 	</a>
   <a href="https://steamcommunity.com/id/feetforeyes">
