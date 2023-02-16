@@ -19,8 +19,12 @@
 
 ## Skillset
 <p align="left">
+   <img alt="Linux Penguin" width = "60px" height= "60px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F3.bp.blogspot.com%2F-Q7jmmKOZqgE%2FWA0ojZNO9pI%2FAAAAAAAAC84%2FIizQD02DW8E71tVA0B_p1rO9UH9bzkCnwCK4B%2Fs1600%2FLinux.png&f=1&nofb=1&ipt=b9418cf5be982b5166df25ae2b72775a48c5d77d1a26368c243d9959a9528090&ipo=images">
+	
+   <img alt="Linux Penguin" width = "60px" height= "60px" src="[https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F3.bp.blogspot.com%2F-Q7jmmKOZqgE%2FWA0ojZNO9pI%2FAAAAAAAAC84%2FIizQD02DW8E71tVA0B_p1rO9UH9bzkCnwCK4B%2Fs1600%2FLinux.png&f=1&nofb=1&ipt=b9418cf5be982b5166df25ae2b72775a48c5d77d1a26368c243d9959a9528090&ipo=images](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages-wixmp-ed30a86b8c4ca887773594c2.wixmp.com%2Ff%2Fd747114f-d4d0-4093-8ac9-c30bbcfb9983%2Fd9wu66g-c23caf47-8f2a-475e-aeb0-cce921afd365.png%3Ftoken%3DeyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Q3NDcxMTRmLWQ0ZDAtNDA5My04YWM5LWMzMGJiY2ZiOTk4M1wvZDl3dTY2Zy1jMjNjYWY0Ny04ZjJhLTQ3NWUtYWViMC1jY2U5MjFhZmQzNjUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.6Z4yirwyugoG1RMmsiGD02qDRTzkiFH6cUNwv0RG-DE&f=1&nofb=1&ipt=8054ae0b76dbc2e07c85d3330aa7cb954843c9bce156affe98fd37b4e65480f0&ipo=images)">
 	<a href = "https://www.kali.org/">
   <img alt="Kali" width="60px" height="60px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fih1.redbubble.net%2Fimage.1061444637.7604%2Fbg%2Cf8f8f8-flat%2C750x%2C075%2Cf-pad%2C750x1000%2Cf8f8f8.jpg&f=1&nofb=1&ipt=ba228ef63b2acea0eeb9564d7b49e34eca893e262e06d0a90426012557a5f32e&ipo=images" />
+
   
   <img alt="C#" width="60px" height="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
   <img alt="Java" width="60px" height="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
@@ -31,6 +35,7 @@
   <img alt="Vim" width="60px" height="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" />
   <img alt = "NeoVim" width="60px" height="60px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fgithub%2Fexplore%2F26674e638508ac4a4e113ee32d6755ebfa000569%2Ftopics%2Fneovim%2Fneovim.png&f=1&nofb=1&ipt=e876d9b8400b1f8ebab3718032d98876e7fcc803d68e6861968eb8baa9d8e803&ipo=images">
   <img alt="Visual Studio Code" width="60px" height="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
+ 
 </p>
 
 ## Past Experience
