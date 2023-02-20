@@ -55,7 +55,7 @@ OK but need to work on more-->
 
 ---
 <p>
-  #<img height="192px" src="https://github-readme-stats.vercel.app/api?username=Pr-Rexus&show_icons=true&include_all_commits=true&theme=dark" />
+  <img height="192px" src="https://github-readme-stats.vercel.app/api?username=Pr-Rexus&show_icons=true&include_all_commits=true&theme=dark" />
   <!--
    <img height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pr-Rexus&layout=compact&langs_count=10&theme=dark" />
  -->
