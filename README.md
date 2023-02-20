@@ -30,11 +30,13 @@
 
   <img alt="Java" width="55px" height="55px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 <img alt="Photoshop" width="55px" height="55px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" />
+<img alt="JavaScript" width="55x" height="55px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+<img alt="Lua" width="55px" height="55px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" />
  <!-- 
 <img alt="C#" width="55px" height="55px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
-  <img alt="JavaScript" width="55x" height="55px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+  
 <img alt="TypeScript" width="55x" height="55px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
-  <img alt="Lua" width="55px" height="55px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" />
+  
   
   <img alt="Python" width="55px" height="55px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 OK but need to work on more-->
