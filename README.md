@@ -7,7 +7,7 @@
 ## Contacts
 <p>
   <a href = "https://www.linkedin.com/in/prahlad-rimal-745622266/">
-	 <img src= "https://img.shields.io/badge/Linkedin-%40Prahlad%-red?logo=linkedin"/>
+	 <img src= "https://img.shields.io/badge/Linkedin-Prahlad-red?logo=linkedin"/>
 	  
 <a href="mailto:prahladrimal@duck.com">
 		<img src="https://img.shields.io/badge/Email-Prahladrimal@duck.com-brightgreen?logo=mail.ru" />
